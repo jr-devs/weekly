@@ -1,5 +1,7 @@
 🔗 Interesting links:
-1. Learning to Learn on CSS Tricks (9 minute read) https://css-tricks.com/learning-to-learn/
+1. Learning to Learn on CSS Tricks (5 minute read) https://css-tricks.com/learning-to-learn/
+2. How to get started with programming on KentCDodds.com (5 minute read) https://kentcdodds.com/blog/how-to-get-started-with-programming
+3. How to use Visual Studio Code on FlavioCopes.com (Reference) https://flaviocopes.com/vscode/
 
 👏 Weekly kudos:
 Congrats to Ann Tuck for graduating from Georgia Tech's full-stack web development program! 🎓
