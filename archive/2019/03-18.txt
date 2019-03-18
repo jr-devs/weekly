@@ -1,0 +1,10 @@
+🔗 Interesting links:
+1. How I started learning to code on Free Code Camp (9 minute read) https://medium.freecodecamp.org/learning-to-code-in-2019-the-first-3-months-b3c843204bb7
+2. Child and sibling selectors on CSS Tricks (4 minute read) https://css-tricks.com/child-and-sibling-selectors/
+3. Repl.it - an online coding platform (Resource) https://repl.it/
+
+🤔 Reminder:
+Make sure to RSVP to this month's Meetup to ensure there is enough food for everyone! 🍕
+
+Happy coding!
+-- Sean McPherson, organizer and Jr Dev
