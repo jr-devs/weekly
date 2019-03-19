@@ -3,7 +3,7 @@
 2. Child and sibling selectors on CSS Tricks (4 minute read) https://css-tricks.com/child-and-sibling-selectors/
 3. Repl.it - an online coding platform (Resource) https://repl.it/
 
-🤔 Reminder:
+🔔 Reminder:
 Make sure to RSVP to this month's Meetup to ensure there is enough food for everyone! 🍕 https://www.meetup.com/jrdevsatl/events/wlgwwpyzfbjc/
 
 Happy coding!
