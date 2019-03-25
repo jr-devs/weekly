@@ -1,0 +1,10 @@
+🔗 Interesting links:
+1. Basic Refactoring: Don't repeat yourself by Tania Rascia (3 minute read) https://www.taniarascia.com/refactoring-dont-repeat-yourself/
+2. A Software Engineer’s One-Page Portfolio by Chuck Groom (3 minute read) https://medium.com/@cgroom/a-software-engineers-one-page-portfolio-4f85ab8a20d1
+3. Netlify - a git-based hosting platform with a great free tier (Resource) https://www.netlify.com/
+
+🔔 Reminder:
+I'm looking forward to seeing you at tomorrow's event! 👍 https://www.meetup.com/jrdevsatl/events/wlgwwpyzfbjc/
+
+Happy coding!
+-- Sean McPherson, organizer and Jr Dev
