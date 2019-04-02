@@ -1,0 +1,10 @@
+🔗 Interesting links:
+1. A practical guide to learning front end development on Free Code Camp (7 minute read) https://medium.freecodecamp.org/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41
+2. A Guide to Semantic HTML on Interneting is Hard (Reference) https://internetingishard.com/html-and-css/semantic-html/
+3. CodePen - a social development environment for front-end designers and developers. (Resource) https://www.codepen.io/
+
+👏 Weekly kudos:
+Congrats to Edy Garcia for graduating from General Assembly! 🎓
+
+Happy coding!
+-- Sean McPherson, organizer and Jr Dev
