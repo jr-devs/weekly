@@ -1,0 +1,10 @@
+🔗 Interesting links:
+1. Programming: doing it more vs doing it better by Kevin Martin Jose (3 minute read) https://kevinmartinjose.com/2019/04/08/programming-doing-it-more-vs-doing-it-better/
+2. Five important lessons from four years as a software developer on Free Code Camp (5 minute read) https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226
+3. "Hello world" guide on GitHub (Tutorial) https://guides.github.com/activities/hello-world/
+
+📰 Special Announcement:
+Mississippi is hosting their first developers conference, MagnoliaJS, on April 18. They have a great lineup of speakers and offered a special discount to members of Jr Devs. Find out more at magnoliajs.com and use promo code JRDEVSATL for 25% off your registration.
+
+Happy coding!
+-- Sean McPherson, organizer and Jr Dev
