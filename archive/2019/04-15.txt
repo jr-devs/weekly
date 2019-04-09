@@ -1,0 +1,10 @@
+🔗 Interesting links:
+1. What you need to know to get started with AWS on Dev.to (6 minute read) https://dev.to/hmlon/what-you-need-to-know-to-get-started-with-aws-4lff
+2. StackOverflow Developer Survery Results 2019 (Interesting data) https://insights.stackoverflow.com/survey/2019
+3. Netlify Dev - Run the entire Netlify platform on your laptop (Resource) https://www.netlify.com/products/dev/
+
+⏰ Last call:
+MagnoliaJS is this Thursday, April 18. They some great speakers lined up and offered a 25% discount to our members with promo code JRDEVSATL. Learn more at magnoliajs.com.
+
+Happy coding!
+-- Sean McPherson, organizer and Jr Dev
